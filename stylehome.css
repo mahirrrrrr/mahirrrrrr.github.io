@@ -24,11 +24,11 @@ body {
     }
 
     /*style kategori*/
-    .img-categori {
+    .img-kategori {
         width: 50px;
     }
 
-    .img-categori:hover {
+    .img-kategori:hover {
         transform: scale(1.2);
         transition: 0.2;
     }
